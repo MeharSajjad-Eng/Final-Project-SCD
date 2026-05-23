@@ -1,0 +1,27 @@
+# =========================================================================
+# Requirements for Smart Notes Organizer
+# =========================================================================
+#
+# This application is built completely utilizing the Python 3 Standard Library.
+# No external package installations (pip install ...) are required to run the
+# application! This ensures 100% compatibility, zero friction, and makes the
+# codebase completely beginner-friendly.
+#
+# Minimum Required Python Version: Python 3.8+
+#
+# Included standard libraries used:
+# - tkinter (GUI Toolkit)
+# - sqlite3 (Lightweight Embedded SQL Database Engine)
+# - unittest (Unit Testing framework)
+# - logging (Standard application auditing)
+# - datetime (Timestamping utilities)
+# - typing (Static type annotations)
+#
+# -------------------------------------------------------------------------
+# Development Tools (Optional)
+# If you would like to run linting, formatting or type-checking tools, you
+# can install these optional development packages:
+# -------------------------------------------------------------------------
+# black>=22.0.0      # Code formatter
+# flake8>=4.0.0     # Code linter
+# mypy>=0.950       # Static type checker
